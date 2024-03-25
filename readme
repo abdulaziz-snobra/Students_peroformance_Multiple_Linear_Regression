@@ -1,0 +1,10 @@
+Student Peroformance Multiple linear regression
+In this lab we make Multiple linear regression on student performance datast.
+
+Our goal from that dataset is to see what is the most fafctors affect the perofrmance.
+
+Using main Packages( pandas, numpy, seaborn, sklearn, statsmodels)
+
+Dataset could be found in kaggle Dowload Dataset
+
+The dataset only foucses in the efforts that the students makes Like(study houres, previous scores ,...), and didcot mentiond the race or the sex of the student. So in this case we are triyng to find a best way for improving the performance regardless for any genetic factors.
